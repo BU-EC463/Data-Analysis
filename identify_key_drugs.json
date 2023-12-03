@@ -1,0 +1,417 @@
+{
+    "HEPARIN (PORCINE)": [
+        [
+            "HEPARIN",
+            "5% DEXTROS 100UN-ML BAG 24X250ML",
+            237.31
+        ],
+        [
+            "HEPARIN LF",
+            "50 UN-5 ML SYG 30X5 ML",
+            24.12
+        ],
+        [
+            "HEPARIN LOCK",
+            "500 UN-5 ML SYG 30X5 ML",
+            24.840000000000003
+        ],
+        [
+            "HEPARIN LOCK",
+            "500 UN-5 ML SYG 60X5ML",
+            222.6
+        ],
+        [
+            "HEPARIN SOD",
+            "5000 UN-ML VL 25X1 ML",
+            122.559493670886
+        ],
+        [
+            "HEPARIN SOD",
+            "5000 UN-ML SDV 25X1 ML",
+            60.59000000000001
+        ],
+        [
+            "HEPARIN SOD",
+            "10 MU SDV 25X1 ML",
+            98.76
+        ],
+        [
+            "HEPARIN SOD",
+            "10 MU VL 25X1 ML",
+            228.89999999999998
+        ],
+        [
+            "HEPARIN SOD",
+            "50 UN-5ML/12 ML SYG 60X5 ML",
+            216.6
+        ],
+        [
+            "HEPARIN SOD",
+            "10000 UN MDV 25X10 ML",
+            218.10000000000002
+        ],
+        [
+            "HEPARIN SOD",
+            "5000 UN-ML VL 25X1 ML HTH",
+            36.3
+        ],
+        [
+            "HEPARIN SOD",
+            "100 IU-ML BAG 30X250 ML",
+            346.49
+        ],
+        [
+            "HEPARIN SOD-D",
+            "5W 25 MU-250ML BAG 24X250ML",
+            328.89937499999996
+        ],
+        [
+            "HEPARIN SOD-D",
+            "5W 25000 IU BAG 30X250 ML",
+            346.48999999999995
+        ],
+        [
+            "HEPARIN SODIUM",
+            "1000 UN-ML MDV 25X30 ML",
+            213.89999999999998
+        ]
+    ],
+    "LIDOCAINE": [
+        [
+            "LIDOCAINE",
+            "0.4%-D5W 2 GM BAG 18X500 ML",
+            146.84
+        ],
+        [
+            "LIDOCAINE",
+            "4% PAT 30",
+            39.19
+        ],
+        [
+            "LIDOCAINE",
+            "5% ONT 35.44 GM",
+            316.65999999999997
+        ],
+        [
+            "LIDOCAINE",
+            "5% PAT 30",
+            282.9675714285715
+        ],
+        [
+            "LIDOCAINE HCL",
+            "1% 500 MG MDV 10X50 ML",
+            33.48
+        ],
+        [
+            "LIDOCAINE HCL",
+            "1% MDV 25X10 ML",
+            73.2
+        ],
+        [
+            "LIDOCAINE HCL",
+            "1% SDV 30 ML",
+            4.35
+        ],
+        [
+            "LIDOCAINE HCL",
+            "2 % PFS 10X5 ML",
+            89.04
+        ],
+        [
+            "LIDOCAINE HCL",
+            "4% TOPICAL SOL 50 ML",
+            64.64
+        ],
+        [
+            "LIDOCAINE HCL",
+            "1 % SDV 25X5 ML",
+            73.80000000000001
+        ],
+        [
+            "LIDOCAINE HCL",
+            "2% VISCOUS SOL 40X15 ML UD",
+            43.2
+        ],
+        [
+            "LIDOCAINE HCL",
+            "1% SDV 10X5 ML",
+            40.5
+        ],
+        [
+            "LIDOCAINE HCL",
+            "2% AMP 10X2 ML",
+            22.5
+        ],
+        [
+            "LIDOCAINE HCL",
+            "2% VISCOUS SOL 100 ML",
+            13.2
+        ],
+        [
+            "LIDOCAINE HCL",
+            "1 % MDV 25X20 ML",
+            111.0
+        ],
+        [
+            "LIDOCAINE HCL",
+            "2% PFS 10X5 ML",
+            62.17
+        ],
+        [
+            "LIDOCAINE HCL PF",
+            "4% AMP 25X5 ML",
+            145.04
+        ],
+        [
+            "LIDOCAINE HCL PF",
+            "1% AMP 25X5 ML",
+            51.24
+        ],
+        [
+            "LIDOCAINE HCL PF",
+            "2% AMP 25X10 ML",
+            127.63
+        ],
+        [
+            "LIDOCAINE-EPINEPH",
+            "1%-1:100K MDV 25X30 ML",
+            170.16999999999996
+        ],
+        [
+            "LIDOCAINE-EPINEPH",
+            "1%-1:100K MDV 25X50 ML",
+            119.44
+        ],
+        [
+            "LIDOCAINE-PRILOCAINE",
+            "2.5-2.5% CRM 30 GM",
+            27.787499999999998
+        ],
+        [
+            "LIDOCAINE-PRILOCAINE",
+            "2.5-2.5% CRM 5X5GM",
+            49.579999999999984
+        ],
+        [
+            "LIDODERM",
+            "5% PAT 30",
+            954.24
+        ],
+        [
+            "XYLOCAINE",
+            "1% VL 25X50 ML",
+            171.6
+        ],
+        [
+            "XYLOCAINE",
+            "1% VL 25X20 ML",
+            101.7
+        ],
+        [
+            "XYLOCAINE",
+            "1% MDV 25X20 ML",
+            101.7
+        ],
+        [
+            "XYLOCAINE MPF",
+            "2% AMP 5X10 ML",
+            41.58
+        ],
+        [
+            "XYLOCAINE MPF",
+            "1% sdv 25X30 ML",
+            353.7
+        ],
+        [
+            "XYLOCAINE MPF",
+            "1% SDV 25X5 ML",
+            117.90000000000003
+        ],
+        [
+            "XYLOCAINE-EPINEPH",
+            "1%-1:100K VL 25X10 ML",
+            104.09999999999998
+        ],
+        [
+            "XYLOCAINE-EPINEPH",
+            "1%-1:100K VL 25X50 ML",
+            300.6000000000001
+        ],
+        [
+            "XYLOCAINE-EPINEPH",
+            "1%-1:100K VL 25X20 ML",
+            129.29999999999998
+        ]
+    ],
+    "ACETAMINOPHEN": [
+        [
+            "ACETAMIN",
+            "650MG SUPPOSITORY 12CT PER UD",
+            7.99
+        ],
+        [
+            "ACETAMINOPHEN",
+            "1000 MG BAG 24X100 ML",
+            310.2545454545455
+        ],
+        [
+            "ACETAMINOPHEN",
+            "1000 MG BAG 40X100 ML",
+            456.0
+        ],
+        [
+            "ACETAMINOPHEN",
+            "650MG UD SOL 100X20.3ML",
+            244.13000000000005
+        ],
+        [
+            "ACETAMINOPHEN",
+            "500 MG TAB 100 (10X10) UD",
+            null
+        ],
+        [
+            "ACETAMINOPHEN",
+            "1000 MG BAG 20X100 ML",
+            288.0
+        ],
+        [
+            "ACETAMINOPHEN",
+            "1000 MG BAG 10X100 ML",
+            144.0
+        ],
+        [
+            "ACETAMINOPHEN",
+            "325MG 100 TAB UD",
+            6.420000000000002
+        ],
+        [
+            "TYLENOL HOSPITAL",
+            "325MG CPL 100 (10X10)UD",
+            null
+        ],
+        [
+            "TYLENOL HOSPITAL",
+            "325MG CPL 10X10CT UD",
+            54.79999999999998
+        ],
+        [
+            "TYLENOL HOSPITAL",
+            "325MG CPL 10X100 UD",
+            54.8
+        ],
+        [
+            "TYLENOL HOSPITAL",
+            "325MG CPL 10X100CT UD",
+            54.80000000000002
+        ]
+    ],
+    "CEFEPIME": [
+        [
+            "CEFEPIME",
+            "2 GM SDV 10",
+            117.72000000000001
+        ],
+        [
+            "CEFEPIME",
+            "2GM SDV",
+            40.36
+        ],
+        [
+            "CEFEPIME",
+            "1 GM SDV 10",
+            68.39999999999996
+        ]
+    ],
+    "CEFTRIAXONE": [
+        [
+            "CEFTRIAXONE",
+            "500 MG SDV 10",
+            268.54
+        ],
+        [
+            "CEFTRIAXONE",
+            "1 GM SDV 10",
+            459.4899999999997
+        ],
+        [
+            "CEFTRIAXONE",
+            "2 GM SDV 10",
+            902.4874698795184
+        ]
+    ],
+    "DAPTOMYCIN": [
+        [
+            "DAPTOMYCIN",
+            "350 MG SDV 15 ML",
+            30.0
+        ]
+    ],
+    "INSULIN LISPRO": [
+        [
+            "HUMALOG VL",
+            "3 ML",
+            98.89000000000003
+        ]
+    ],
+    "ALBUMIN HUMAN": [
+        [
+            "ALBUMIN",
+            "5% VL 500ML",
+            166.32
+        ],
+        [
+            "ALBUMIN",
+            "5% VL 250ML",
+            83.16
+        ],
+        [
+            "FLEXBUMIN",
+            "5% BAG 10X250ML",
+            1388.5999999999997
+        ],
+        [
+            "FLEXBUMIN",
+            "25% BAG 24X50ML",
+            19995.84
+        ],
+        [
+            "FLEXBUMIN",
+            "25% BAG 12X100ML",
+            9997.92
+        ]
+    ],
+    "ONDANSETRON": [
+        [
+            "ONDANSETRON",
+            "4 MG ODT TAB 30 (3X10) UD",
+            null
+        ],
+        [
+            "ONDANSETRON",
+            "40 MG MDV 20 ML",
+            6.0
+        ],
+        [
+            "ONDANSETRON",
+            "4 MG SDV 25X2 ML",
+            18.0
+        ],
+        [
+            "ONDANSETRON HCL",
+            "4 MG TAB 100 UD",
+            74.33
+        ],
+        [
+            "ONDANSETRON ODT",
+            "8 MG TAB 30 UD",
+            1113.95
+        ]
+    ],
+    "REMDESIVIR": [
+        [
+            "VEKLURY",
+            "100MG LYPH PWD SDV",
+            685.7800000000001
+        ]
+    ]
+}
